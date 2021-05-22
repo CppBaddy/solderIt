@@ -19,5 +19,6 @@ Features:
     Graphical OLED display (set point, current temperature and analog power bar)
     Input for handle temperature sensor
 
+![solderIt schematics](https://github.com/cppBaddy/solderIt/blob/main/schematics.jpg?raw=true)
 
 Schematic and PCB design can be found at https://easyeda.com/Yulay/Simple_Soldering_Controller-6bac2e98d4c44ddf9c34261973521047 
