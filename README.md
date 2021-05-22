@@ -20,4 +20,4 @@ Features:
     Input for handle temperature sensor
 
 
-Schematic can be found at https://easyeda.com/Yulay/Simple_Soldering_Controller-6bac2e98d4c44ddf9c34261973521047 
+Schematic and PCB design can be found at https://easyeda.com/Yulay/Simple_Soldering_Controller-6bac2e98d4c44ddf9c34261973521047 
