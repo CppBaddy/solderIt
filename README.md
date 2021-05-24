@@ -5,6 +5,10 @@ Controlled by encoder.
 
 To save pins of attiny85 one pin is used for encoder input (3 contacts) and to output sound to buzzer.
 
+Encoder inputs connected to form resistor ladder. The input to ADC looks like this:
+![Coded input to ADC](https://github.com/cppBaddy/solderIt/blob/main/ADC_coded_rotary.png?raw=true)
+![Coded input and decoded signal](https://github.com/cppBaddy/solderIt/blob/main/ADC_decoded.png?raw=true)
+
 Display based on ssd1306 controller driven by i2c bus
 
 
