@@ -29,4 +29,4 @@ Features:
 
 ![solderIt schematics](https://github.com/CppBaddy/solderIt/blob/main/schematics.png?raw=true)
 
-Schematic and PCB design can be found at https://easyeda.com/Yulay/Simple_Soldering_Controller-6bac2e98d4c44ddf9c34261973521047 
+Schematic and PCB design can be found [here](https://easyeda.com/Yulay/Simple_Soldering_Controller-6bac2e98d4c44ddf9c34261973521047) 
